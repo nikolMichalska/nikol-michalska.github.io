@@ -11476,3 +11476,8 @@ section.resume-section .resume-section-content {
 .column {
   flex: 50%;
 }
+
+.badge-img {
+  width:80px;
+  padding-bottom:10px;
+}
